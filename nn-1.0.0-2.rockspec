@@ -1,10 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "nn"
-version = "v1.0.0-1"
+version = "1.0.0-2"
+description = {
+	summary = "Nanomsg bindings for Lua",
+	homepage = "http://github.com/CoderPuppy/lua-nn",
+	license = "MIT",
+	maintainer = "CoderPuppy <coderpup@gmail.com>",
+}
 -- LuaDist source
 source = {
-  tag = "v1.0.0-1",
+  tag = "1.0.0-2",
   url = "git://github.com/LuaDist-testing/nn.git"
 }
 -- Original source
